@@ -1,6 +1,6 @@
 # Pranav Shinde
 
-MSc Physics student at [Your University] · BSc Computer Science
+MSc Physics student at NITK · BSc Computer Science
 
 I work at the boundary between physical simulation and machine learning. My current research uses the Lattice Boltzmann Method with a phase-field model — implemented in C++ using Palabos — to simulate droplet dynamics and chemical-wave-driven pattern formation. I am interested in how the tools of scientific computing connect to quantum simulation and quantum machine learning.
 
