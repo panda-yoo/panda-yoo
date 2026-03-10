@@ -1,15 +1,51 @@
-# 💫 About Me:
-🔭 I’m currently working on simulating fluid flow using the Lattice Boltzmann Method (LBM) and experimenting with parallelization using MPI & CUDA.<br>🤝 I’m looking to collaborate on C++ and Python projects in scientific computing, physics simulations, or numerical methods.<br>👐 I’m looking for help with optimizing LBM boundary conditions and implementing efficient parallel data structures.<br>🌱 I’m currently learning measure theory, Bayesian statistics, and Itô calculus to bridge math and machine learning in physics.<br>💬 Ask me about simulation design, C++ performance tuning, or statistical physics models like the Ising model.<br>⚡ Fun fact: I enjoy bringing equations to life — one line of code at a time!
+# Pranav Shinde
 
+MSc Physics student at [Your University] · BSc Computer Science
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=panda-yoo&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=panda-yoo&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=panda-yoo&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I work at the boundary between physical simulation and machine learning. My current research uses the Lattice Boltzmann Method with a phase-field model — implemented in C++ using Palabos — to simulate droplet dynamics and chemical-wave-driven pattern formation. I am interested in how the tools of scientific computing connect to quantum simulation and quantum machine learning.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=panda-yoo&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Current Work
+
+**MSc Thesis — Phase-field LBM for droplet dynamics and chemical pattern formation**  
+Simulating droplet interfaces via a phase-field order parameter coupled to Navier–Stokes dynamics using the Palabos C++ library. Validated against the Poiseuille flow benchmark; currently extending to reaction-diffusion coupling to study chemical-wave-driven interface deformation and emergent spatial patterns.
+
+**Parallelisation**  
+Experimenting with MPI and CUDA for scaling LBM simulations across multi-core and GPU architectures.
+
+**Self-directed study**  
+Working through measure theory, Bayesian statistics, and Itô calculus — building the mathematical foundation to engage seriously with probabilistic machine learning and, eventually, quantum machine learning.
+
+---
+
+## Projects
+
+| Repo | Description | Language |
+|------|-------------|----------|
+| [LBM_Project](https://github.com/panda-yoo/LBM_Project) | Phase-field Lattice Boltzmann simulation of droplet dynamics using Palabos | C++, Jupyter |
+| [ising_model](https://github.com/panda-yoo/ising_model) | Metropolis Monte Carlo simulation of the 2D Ising model | C++ |
+| [ML_practice_code](https://github.com/panda-yoo/ML_practice_code) | Classical ML implementations — regression, classification, neural nets | Python |
+
+---
+
+## Stack
+
+**Languages:** C++, Python  
+**Scientific:** Palabos, NumPy, SciPy, Matplotlib  
+**ML:** PyTorch, Pandas  
+**Tools:** CMake, MPI, CUDA (learning), Git
+
+---
+
+## Interests
+
+- Lattice Boltzmann methods and mesoscopic fluid simulation  
+- Quantum simulation and quantum machine learning  
+- Probabilistic modelling and measure-theoretic foundations of ML  
+- Scientific computing and high-performance C++
+
+---
+
+*Currently applying to MSc programmes in Quantum Science and Technology.*  
+*Open to collaboration on C++ scientific computing, physics simulations, or numerical methods.*
