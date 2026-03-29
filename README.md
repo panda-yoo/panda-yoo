@@ -37,7 +37,7 @@ rules producing behaviour that's hard to anticipate classically.
 | [LBM_Project](https://github.com/panda-yoo/LBM_Project) | Phase-field LBM simulation of droplet dynamics using Palabos | C++, Jupyter |
 | [ising_model](https://github.com/panda-yoo/ising_model) | Metropolis and Wolff Monte Carlo — 2D Ising model, phase transitions | C++ |
 | [ML_practice_code](https://github.com/panda-yoo/ML_practice_code) | ML implementations written while learning — regression, classification, neural nets | Python |
-
+| [droplet-data](https://github.com/panda-yoo/droplet-data)| Trained a YOLO model to droplet detection|Python|
 ---
 
 ## Stack
