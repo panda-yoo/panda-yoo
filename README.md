@@ -34,10 +34,13 @@ rules producing behaviour that's hard to anticipate classically.
 
 | Repo | Description | Language |
 |------|-------------|----------|
+| [droplet-data](https://github.com/panda-yoo/droplet-data)| Trained a YOLO model to droplet detection|Python|
+| [droplet-simulation](https://github.com/panda-yoo/droplet-simulation)| Developed a particle-based simulation framework combining Vicsek-type alignment interactions with chemotactic gradient-following to model emergent collective motion in self-propelled droplet systems|Python|
+| [Quantum-kernel-SVM-Project](https://github.com/panda-yoo/Quantum-kernel-SVM-Project)| Implemented quantum kernel-based SVM using Qiskit with parameterized 2-qubit feature maps|Python|
 | [LBM_Project](https://github.com/panda-yoo/LBM_Project) | Phase-field LBM simulation of droplet dynamics using Palabos | C++, Jupyter |
 | [ising_model](https://github.com/panda-yoo/ising_model) | Metropolis and Wolff Monte Carlo — 2D Ising model, phase transitions | C++ |
 | [ML_practice_code](https://github.com/panda-yoo/ML_practice_code) | ML implementations written while learning — regression, classification, neural nets | Python |
-| [droplet-data](https://github.com/panda-yoo/droplet-data)| Trained a YOLO model to droplet detection|Python|
+
 ---
 
 ## Stack
