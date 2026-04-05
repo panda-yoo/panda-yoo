@@ -3,7 +3,7 @@ MSc Physics · NITK | BSc Computer Science
 
 I started in CS and somewhere during a physics master's realised 
 I understand things better when I implement them. Most of what 
-I work on sits at that boundary — using code to study physical 
+I work on sits at that boundary, using code to study physical 
 systems rather than build products.
 
 ---
@@ -16,7 +16,7 @@ Validated against Poiseuille flow; extending to reaction-diffusion
 coupling to look at how chemical waves drive interface deformation.
 
 **Droplet detection — image analysis**
-Labeled ~700 images in CVAT and trained a YOLO-based model to 
+Labeled ~500 images in CVAT and trained a YOLO-based model to 
 detect droplets. The goal was to connect what the model sees to 
 a simpler macroscopic physical model — trying to get data-driven 
 and theory-driven approaches to talk to each other.
